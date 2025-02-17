@@ -36,7 +36,7 @@
     gap: 10px;
     margin-top: 10px;
     margin-bottom: 10px;
-    font-size: 25px;
+    font-size: 35px;
     font-weight: bold;
 }
 
@@ -54,12 +54,14 @@ button {
 #somar,
 #igual {
     background-color: #f88112;
+    color: #fff;
 }
 
 #on,
 #plus-minus,
 #porcento {
     background-color: #807f7f;
+    color: #fff;
 }
 
 #linha1,
